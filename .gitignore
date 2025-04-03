@@ -1,7 +1,5 @@
 .idea/
 .DS_Store
-Manifest.toml
-Project.toml
 *.csv
 scratch
 *live.ipynb
